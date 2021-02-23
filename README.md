@@ -41,7 +41,7 @@
 
 <p align="center">
 <code><img height="75" src="https://github.com/M3Try/M3Try/blob/master/assets/aws.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/M3Try/M3Try/blob/master/assetsgit.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/M3Try/M3Try/blob/master/assets/git.png"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://github.com/M3Try/M3Try/blob/master/assets/npm.png"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://github.com/M3Try/M3Try/blob/master/assets/js.png"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://github.com/M3Try/M3Try/blob/master/assets/html.png"></code> &nbsp;&nbsp;
