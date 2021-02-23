@@ -29,23 +29,23 @@
   Here are some technologies I use at work:
 </h2>
 <p align="center">
-<code><img height="70" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/next.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/react.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/redux.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/flutter.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/graphql.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/vue.png"></code>
+<code><img height="70" src="https://github.com/M3Try/M3Try/blob/master/assets/next.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/M3Try/M3Try/blob/master/assets/react.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/M3Try/M3Try/blob/master/assets/redux.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/M3Try/M3Try/blob/master/assets/flutter.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/M3Try/M3Try/blob/master/assets/graphql.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/M3Try/M3Try/blob/master/assets/vue.png"></code>
 </p>
 
 <br/>
 
 <p align="center">
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/aws.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/git.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/npm.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/js.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/html.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/css.png"></code>
+<code><img height="75" src="https://github.com/M3Try/M3Try/blob/master/assets/aws.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/M3Try/M3Try/blob/master/assetsgit.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/M3Try/M3Try/blob/master/assets/npm.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/M3Try/M3Try/blob/master/assets/js.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/M3Try/M3Try/blob/master/assets/html.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/M3Try/M3Try/blob/master/assets/css.png"></code>
 </p>
 
 <br/>
@@ -68,14 +68,14 @@
 </h3>
 <br/>
 <p align="center">
- <a href="mailto:try.nothing@gmail.com"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
-   <a href="https://github.com/M3Try"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/github.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
-  <a href="https://www.linkedin.com/in/mohamad-try-murdianto/"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
-  <a href="https://twitter.com/dagowaksdev"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/twitter.svg" width="30px" alt="Twitter">     </a> &nbsp; &nbsp;
-    <a href="https://linktr.ee/dagowaksdev"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/site.svg" width="30px" alt="site"></a> &nbsp; &nbsp;
-  <a href="https://medium.com/@dagowaksdev"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/medium.svg" width="30px" alt="medium"></a> &nbsp; &nbsp;
+ <a href="mailto:try.nothing@gmail.com"><img src="https://github.com/M3Try/M3Try/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
+   <a href="https://github.com/M3Try"><img src="https://github.com/M3Try/M3Try/blob/master/assets/github.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
+  <a href="https://www.linkedin.com/in/mohamad-try-murdianto/"><img src="https://github.com/M3Try/M3Try/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
+  <a href="https://twitter.com/dagowaksdev"><img src="https://github.com/M3Try/M3Try/blob/master/assets/twitter.svg" width="30px" alt="Twitter">     </a> &nbsp; &nbsp;
+    <a href="https://linktr.ee/dagowaksdev"><img src="https://github.com/M3Try/M3Try/blob/master/assets/site.svg" width="30px" alt="site"></a> &nbsp; &nbsp;
+  <a href="https://medium.com/@dagowaksdev"><img src="https://github.com/M3Try/M3Try/blob/master/assets/medium.svg" width="30px" alt="medium"></a> &nbsp; &nbsp;
 </p>
 
-<img align="center" alt="Code gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding-freak.gif" width="100%" />
+<img align="center" alt="Code gif" src="https://github.com/M3Try/M3Try/blob/master/assets/coding-freak.gif" width="100%" />
 
 ⭐️ From [dagowaksdev](https://github.com/M3Try)
