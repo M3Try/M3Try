@@ -68,7 +68,7 @@
 </h3>
 <br/>
 <p align="center">
- <a href="mailto:try.nothing@gmail.com"><img src="https://github.com/M3Try/M3Try/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
+ <!--<a href="mailto:try.nothing@gmail.com"><img src="https://github.com/M3Try/M3Try/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;--!>
    <a href="https://github.com/M3Try"><img src="https://github.com/M3Try/M3Try/blob/master/assets/github.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
   <a href="https://www.linkedin.com/in/mohamad-try-murdianto/"><img src="https://github.com/M3Try/M3Try/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
   <a href="https://twitter.com/dagowaksdev"><img src="https://github.com/M3Try/M3Try/blob/master/assets/twitter.svg" width="30px" alt="Twitter">     </a> &nbsp; &nbsp;
