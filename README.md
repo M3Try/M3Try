@@ -1,7 +1,7 @@
-<h1 align="center"> Hey 👋🏽, I'm Chandan Reddy </h1>
+<h1 align="center"> Hey 👋🏽, I'm dagowaksdev </h1>
 
 <h3 align="center">
-    An awesome React Developer at <a href="https://www.commutatus.com">Commutatus</a>.  
+    An awesome Front End React Developer    
 </h3>
 <p align="center">
 </p>
@@ -61,7 +61,7 @@
 <br/>
 
 <h2 align="center">
-  Do you speak <b>தமிழ்</b>? It's ok if you don't. 
+  Do you speak <b>Bahasa Indonesia</b>? It's ok if you don't. 
 </h2>
 <h3 align="center">
   I speak English too, Get in touch.
@@ -69,7 +69,7 @@
 <br/>
 <p align="center">
  <a href="mailto:try.nothing@gmail.com"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
-   <a href="https://github.com/chandan-reddy-k"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/github.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
+   <a href="https://github.com/M3Try"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/github.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
   <a href="https://www.linkedin.com/in/mohamad-try-murdianto/"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
   <a href="https://twitter.com/dagowaksdev"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/twitter.svg" width="30px" alt="Twitter">     </a> &nbsp; &nbsp;
     <a href="https://linktr.ee/dagowaksdev"><img src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/site.svg" width="30px" alt="site"></a> &nbsp; &nbsp;
