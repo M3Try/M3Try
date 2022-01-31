@@ -42,6 +42,9 @@
 <br/>
 
 <p align="center">
+<code><img height="75" src="https://github.com/M3Try/M3Try/blob/master/assets/docker.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/M3Try/M3Try/blob/master/assets/jenkins.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/M3Try/M3Try/blob/master/assets/kafka.png"></code> &nbsp;&nbsp;    
 <code><img height="75" src="https://github.com/M3Try/M3Try/blob/master/assets/aws.png"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://github.com/M3Try/M3Try/blob/master/assets/git.png"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://github.com/M3Try/M3Try/blob/master/assets/npm.png"></code> &nbsp;&nbsp;
