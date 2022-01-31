@@ -1,7 +1,7 @@
 <h1 align="center"> Hey 👋🏽, I'm dagowaksdev </h1>
 
 <h3 align="center">
-    An awesome Software Engineer    
+    An Awesome Software Engineer    
 </h3>
 <p align="center">
 </p>
