@@ -57,9 +57,9 @@
 
 <br/>
 
-<h2 align="center">
+<!-- <h2 align="center">
     My contributions to open-source:
-</h2>
+</h2> -->
 
 <!-- <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=M3Try&show_icons=true&title_color=fff&icon_color=109eff&text_color=9f9f9f&bg_color=151515" alt="dagowaksdev's Public Github Stats">
